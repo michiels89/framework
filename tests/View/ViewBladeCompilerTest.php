@@ -1,5 +1,5 @@
 <?php
-
+//ViewBladeCompilerTest.php
 namespace Illuminate\Tests\View;
 
 use Mockery as m;
